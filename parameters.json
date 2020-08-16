@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_tedyfunc_name": {
+            "value": null
+        },
+        "sites_webasignment_name": {
+            "value": null
+        },
+        "sites_webasignMySQL_name": {
+            "value": null
+        },
+        "frontdoors_tedyfd_name": {
+            "value": null
+        },
+        "Redis_rediscachassign_name": {
+            "value": null
+        },
+        "servers_tedyagure_name": {
+            "value": null
+        },
+        "components_web_insights_name": {
+            "value": null
+        },
+        "storageAccounts_assigstorage_name": {
+            "value": null
+        },
+        "serverfarms_ASP_cloudComputingAssingment_81a9_name": {
+            "value": null
+        },
+        "serverfarms_ASP_cloudComputingAssingment_ad93_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_waf_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "dashboards_653da3b7_f669_4493_8e99_92f06edbb852_dashboard_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___web_insights_name": {
+            "value": null
+        }
+    }
+}
